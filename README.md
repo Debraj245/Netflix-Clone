@@ -18,11 +18,8 @@ A responsive **Netflix landing page clone** built using only **HTML** and **CSS*
 
 ---
 
-## 🚀 Live Demo
+## 🚀 
 
-[Click here to view the live site](https://your-live-link.com) *(if deployed)*
 
----
 
-## 📂 Folder Structure
 
