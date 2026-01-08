@@ -1,6 +1,3 @@
-A streaming platform clone built with modern web technologies. Features include user authentication, movie browsing, and responsive design for all devices.
-
-
 # 🎬 Netflix Clone
 
 A responsive **Netflix landing page clone** built using only **HTML** and **CSS**. This project mimics the front page of Netflix for learning purposes, showcasing layout skills, responsive design, and modern CSS techniques.
