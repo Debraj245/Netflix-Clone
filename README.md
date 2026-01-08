@@ -24,16 +24,3 @@ Users can browse movies and shows, view trending content, and experience a visua
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | HTML, CSS, JavaScript |
-| API | The Movie Database (TMDB API) *(if used)* |
-| Libraries | *(e.g., Axios, Fetch API)* |
-| Tools | VS Code, Git & GitHub |
-
----
-
-## 📁 Project Structure
-
